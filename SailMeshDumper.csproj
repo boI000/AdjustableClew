@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BepInEx">
+      <HintPath>E:\GAMES\Steam\steamapps\common\Sailwind\BepInEx\core\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <Reference Include="UnityEngine">
+      <HintPath>E:\GAMES\Steam\steamapps\common\Sailwind\Sailwind_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>E:\GAMES\Steam\steamapps\common\Sailwind\Sailwind_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>E:\GAMES\Steam\steamapps\common\Sailwind\Sailwind_Data\Managed\UnityEngine.ClothModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <Reference Include="Assembly-CSharp">
+      <HintPath>E:\GAMES\Steam\steamapps\common\Sailwind\Sailwind_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <Reference Include="0Harmony">
+      <HintPath>E:\GAMES\Steam\steamapps\common\Sailwind\BepInEx\core\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>E:\GAMES\Steam\steamapps\common\Sailwind\Sailwind_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
