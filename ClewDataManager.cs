@@ -2,7 +2,7 @@ using System.Globalization;
 using System.Text;
 using UnityEngine;
 
-namespace SailMeshDumper
+namespace AdjustableClew
 {
     internal static class ClewDataManager
     {

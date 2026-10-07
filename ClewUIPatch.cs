@@ -1,7 +1,7 @@
 using HarmonyLib;
 using UnityEngine;
 
-namespace SailMeshDumper
+namespace AdjustableClew
 {
     [HarmonyPatch(typeof(ShipyardUI))]
     internal static class ClewUIPatch

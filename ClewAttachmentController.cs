@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SailMeshDumper
+namespace AdjustableClew
 {
     public class ClewAttachmentController : MonoBehaviour
     {

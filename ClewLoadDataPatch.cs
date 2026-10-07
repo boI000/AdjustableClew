@@ -1,6 +1,6 @@
 using HarmonyLib;
 
-namespace SailMeshDumper
+namespace AdjustableClew
 {
     [HarmonyPatch(typeof(SaveableBoatCustomization), "LoadData")]
     internal static class ClewLoadDataPatch

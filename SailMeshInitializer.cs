@@ -1,7 +1,7 @@
 using HarmonyLib;
 using UnityEngine;
 
-namespace SailMeshDumper
+namespace AdjustableClew
 {
     internal static class SailMeshInitializer
     {
